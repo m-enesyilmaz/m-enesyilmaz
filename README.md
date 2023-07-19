@@ -8,7 +8,7 @@
 
 I am a graduate student with a background in Electrical Electronics Engineering, and I am passionate about data science and deep learning.
 
-- 🌍  I'm based in Ankara
+<!-- - 🌍  I'm based in Ankara  -->
 
 - 🔭 I’m currently improving myself in **Data Science**
 
