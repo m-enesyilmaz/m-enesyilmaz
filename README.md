@@ -1,6 +1,6 @@
 ![master_head](https://github.com/m-enesyilmaz/m-enesyilmaz/assets/99537664/cabc378e-9bb4-4687-8254-236630b56790)
 
-<h1 align="center">Hi 👋, I'm Muhammed Enes Yılmaz</h1>
+<h1 align="center"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> I'm Muhammed Enes Yılmaz </h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=28&pause=500&color=E74C3C&center=true&vCenter=true&width=500&lines=Electrical+Electronics+Engineering+background+;I+am+passionate+about+;Data+Science+and+Deep+Learning" alt="Typing SVG" /></a></p>
 <!-- <h3 align="center">I am a data science and deep learning enthusiast with a background in Electrical Electronics Engineering.</h3> -->
 
@@ -21,7 +21,6 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 - 📫 You can contact me at ["To be updated in the future"](mailto:"To be updated in the future")
 
 - 📄 Know about my experiences ["To be updated in the future."]("To be updated in the future.")
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-enesyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="m-enesyilmaz" /> </p>
 
@@ -52,10 +51,9 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 <!-- başka bir gösterim yöntemi;  <a href="https://github.com/m-enesyilmaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-enesyilmaz&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-enesyilmaz&theme=slateorange&hide_border=false)<br/>
 
-<a href="http://www.github.com/m-enesyilmaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-enesyilmaz&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/m-enesyilmaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-enesyilmaz&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Muhammed Enes Yılmaz's GitHub Commits Graph" /></a>
 
-![snake gif](https://github.com/m-enesyilmaz/m-enesyilmaz/blob/output/github-contribution-grid-snake.gif)
+<!-- snake; çalışıyor ama biraz gelişsin github; ![snake gif](https://github.com/m-enesyilmaz/m-enesyilmaz/blob/output/github-contribution-grid-snake.gif)  -->
+<!-- snake ikincisi için;  <img src="https://raw.githubusercontent.com/m-enesyilmaz/m-enesyilmaz/output/snake.svg" alt="Snake animation" />  -->
 
-<!-- ikincisi için;  <img src="https://raw.githubusercontent.com/m-enesyilmaz/m-enesyilmaz/output/snake.svg" alt="Snake animation" />  -->
-
-<!-- Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Enes Yılmaz -->
+<!-- profile-3d için ama github biraz gelişsin istiyorum. ayrıca renk seçenekleri klasörde mevcut; ![](./profile-3d-contrib/profile-green.svg)  -->
