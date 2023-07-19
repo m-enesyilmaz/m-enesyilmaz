@@ -1,9 +1,12 @@
 ![master_head](https://github.com/m-enesyilmaz/m-enesyilmaz/assets/99537664/cabc378e-9bb4-4687-8254-236630b56790)
 
 <h1 align="center">Hi 👋, I'm Muhammed Enes Yılmaz</h1>
-<h3 align="center">I am a data science and deep learning enthusiast with a background in Electrical Electronics Engineering.</h3>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=28&pause=500&color=E74C3C&center=true&vCenter=true&width=500&lines=Electrical+Electronics+Engineering+background+;I+am+passionate+about+;Data+Science+and+Deep+Learning" alt="Typing SVG" /></a></p>
+<!-- <h3 align="center">I am a data science and deep learning enthusiast with a background in Electrical Electronics Engineering.</h3> -->
 
 ### 💫 About Me:
+
+I am a graduate student with a background in Electrical Electronics Engineering, and I am passionate about data science and deep learning.
 
 - 🔭 I’m currently working on **Data Science**
 
