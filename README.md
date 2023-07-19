@@ -8,15 +8,17 @@
 
 I am a graduate student with a background in Electrical Electronics Engineering, and I am passionate about data science and deep learning.
 
-- 🔭 I’m currently working on **Data Science**
+- 🌍  I'm based in Ankara
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m currently improving myself in **Data Science**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 🧠 I’m currently learning **Deep Learning**
+
+- 🤝 I’m looking to collaborate on **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/m-enesyilmaz?tab=repositories](https://github.com/m-enesyilmaz?tab=repositories)
 
-- 📫 How to reach me **"To be updated in the future."**
+- 📫 You can contact me at ["To be updated in the future"](mailto:"To be updated in the future")
 
 - 📄 Know about my experiences ["To be updated in the future."]("To be updated in the future.")
 
@@ -33,17 +35,15 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-<!-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-enesyilmaz&show_icons=true&locale=en&layout=compact" alt="m-enesyilmaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-enesyilmaz&" alt="m-enesyilmaz" /></p>
-
-<!-- ![snake gif](https://github.com/m-enesyilmaz/m-enesyilmaz/blob/output/github-contribution-grid-snake.gif) -->
-<!-- -->
-
 ### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=m-enesyilmaz&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>  -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-enesyilmaz&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!-- başka bir gösterim yöntemi  <a href="https://github.com/m-enesyilmaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-enesyilmaz&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-enesyilmaz&theme=slateorange&hide_border=false)<br/>
+
+<a href="http://www.github.com/m-enesyilmaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-enesyilmaz&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<!-- ![snake gif](https://github.com/m-enesyilmaz/m-enesyilmaz/blob/output/github-contribution-grid-snake.gif) -->
+
+<!-- Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Enes Yılmaz -->
 
