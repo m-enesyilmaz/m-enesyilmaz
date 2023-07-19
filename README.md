@@ -54,7 +54,7 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 
 <a href="http://www.github.com/m-enesyilmaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-enesyilmaz&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<!-- ![snake gif](https://github.com/m-enesyilmaz/m-enesyilmaz/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/m-enesyilmaz/m-enesyilmaz/blob/output/github-contribution-grid-snake.gif)
 
 <!-- ikincisi için;  <img src="https://raw.githubusercontent.com/m-enesyilmaz/m-enesyilmaz/output/snake.svg" alt="Snake animation" />  -->
 
