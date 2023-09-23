@@ -10,15 +10,15 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 
 <!-- - 🌍  I'm based in Ankara  -->
 
-- 🔭 I’m currently improving myself in **Data Science**
+- 🔭 I’m currently improving myself in ***Data Science***
 
-- 🧠 I’m currently learning **Deep Learning**
+- 🧠 I’m currently learning ***Deep Learning***
 
-- 🤝 I’m looking to collaborate on **Machine Learning**
+- 🤝 I’m looking to collaborate on ***Machine Learning***
 
 - 👨‍💻 All of my projects are available at [https://github.com/m-enesyilmaz?tab=repositories](https://github.com/m-enesyilmaz?tab=repositories)
 
-- 📫 You can contact me at ["To be updated in the future"](mailto:"To be updated in the future")
+- 📫 You can contact me at ["Email"](mailto:"m.enesyilmaaz@gmail.com")
 
 - 📄 Know about my experiences ["To be updated in the future."]("To be updated in the future.")
 
