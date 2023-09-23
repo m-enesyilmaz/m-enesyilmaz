@@ -16,7 +16,7 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 
 - 🤝 I’m looking to collaborate on ***Machine Learning***
 
-- 👨‍💻 All of my projects are available at [https://github.com/m-enesyilmaz?tab=repositories](https://github.com/m-enesyilmaz?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/m-enesyilmaz?tab=repositories)
 
 - 📫 You can contact me at ["Email"](mailto:"m.enesyilmaaz@gmail.com")
 
@@ -39,11 +39,6 @@ I am a graduate student with a background in Electrical Electronics Engineering,
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
 </div>
 </a> </p>
-
-<!--
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
--->
 
 ### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=m-enesyilmaz&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>  -->
