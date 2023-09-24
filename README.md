@@ -18,7 +18,7 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/m-enesyilmaz?tab=repositories)
 
-- 📫 You can contact me at ["Email"](mailto:"m.enesyilmaaz@gmail.com")
+- 📫 You can contact me at [Email](mailto:m.enesyilmaaz@gmail.com)
 
 - 📄 Know about my experiences ["To be updated in the future."]("To be updated in the future.")
 
@@ -46,7 +46,7 @@ I am a graduate student with a background in Electrical Electronics Engineering,
 <!-- başka bir gösterim yöntemi;  <a href="https://github.com/m-enesyilmaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-enesyilmaz&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-enesyilmaz&theme=slateorange&hide_border=false)<br/>
 
-<a href="http://www.github.com/m-enesyilmaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-enesyilmaz&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Muhammed Enes Yılmaz's GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/m-enesyilmaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-enesyilmaz&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Muhammed Enes Yılmaz's GitHub Commits Graph" /></a> -->
 
 <!-- snake; çalışıyor ama biraz gelişsin github; ![snake gif](https://github.com/m-enesyilmaz/m-enesyilmaz/blob/output/github-contribution-grid-snake.gif)  -->
 <!-- snake ikincisi için;  <img src="https://raw.githubusercontent.com/m-enesyilmaz/m-enesyilmaz/output/snake.svg" alt="Snake animation" />  -->
