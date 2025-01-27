@@ -9,11 +9,11 @@ I am an Electrical-Electronics Engineer with a strong foundation in theoretical 
 
 Throughout my education, I have gained invaluable development and a mindset that has reinforced my belief that the role of an engineer goes beyond asking questions and involves solving real-world problems.
 
-- 🔭 I’m improving myself in ***Data Science***
+<!-- - 🔭 I’m improving myself in ***Data Science***
 
 - 🧠 I’m currently learning ***Deep Learning***
 
-- 🤝 I’m looking to collaborate on ***Machine Learning***
+- 🤝 I’m looking to collaborate on ***Machine Learning*** -->
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/m-enesyilmaz?tab=repositories)
 
